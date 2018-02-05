@@ -1,0 +1,17 @@
+D:/workspace/Spi_Oled/Project_Headers\../Sources\SSD1306.c:67:error:C1822 Type mismatch (expected 'unsigned char ', given 'const unsigned char *')
+D:/workspace/Spi_Oled/Project_Headers\../Sources\SSD1306.c:80:error:C1826 Integer-expression expected
+D:/workspace/Spi_Oled/Project_Headers\../Sources\SSD1306.c:80:error:C1822 Type mismatch (expected 'unsigned char ', given 'error ')
+D:/workspace/Spi_Oled/Project_Headers\../Sources\SSD1306.c:80:error:C1806 Illegal cast-operation
+D:/workspace/Spi_Oled/Project_Headers\../Sources\SSD1306.c:80:error:C2801 ';' missing
+D:/workspace/Spi_Oled/Project_Headers\../Sources\SSD1306.c:86:error:C1826 Integer-expression expected
+D:/workspace/Spi_Oled/Project_Headers\../Sources\SSD1306.c:86:error:C1822 Type mismatch (expected 'unsigned char ', given 'error ')
+D:/workspace/Spi_Oled/Project_Headers\../Sources\SSD1306.c:86:error:C1806 Illegal cast-operation
+D:/workspace/Spi_Oled/Project_Headers\../Sources\SSD1306.c:86:error:C2801 ';' missing
+D:/workspace/Spi_Oled/Project_Headers\../Sources\SSD1306.c:92:error:C1826 Integer-expression expected
+D:/workspace/Spi_Oled/Project_Headers\../Sources\SSD1306.c:92:error:C1822 Type mismatch (expected 'unsigned char ', given 'error ')
+D:/workspace/Spi_Oled/Project_Headers\../Sources\SSD1306.c:92:error:C1806 Illegal cast-operation
+D:/workspace/Spi_Oled/Project_Headers\../Sources\SSD1306.c:92:error:C2801 ';' missing
+D:/workspace/Spi_Oled/Project_Headers\../Sources\SSD1306.c:98:error:C1826 Integer-expression expected
+D:/workspace/Spi_Oled/Project_Headers\../Sources\SSD1306.c:98:error:C1822 Type mismatch (expected 'unsigned char ', given 'error ')
+D:/workspace/Spi_Oled/Project_Headers\../Sources\SSD1306.c:98:error:C1806 Illegal cast-operation
+D:/workspace/Spi_Oled/Project_Headers\../Sources\SSD1306.c:98:error:C2801 ';' missing

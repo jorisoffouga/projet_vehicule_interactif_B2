@@ -1,0 +1,31 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="2">
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/PE_Types.h" FileDate="2017-06-14, 10:49:16" FileAge="1497430156892" FileType="45637" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2017-06-14, 10:49:17" FileAge="1497430157021" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2017-06-14, 10:49:16" FileAge="1497430156811" FileType="45637" />
+      <File Name="Sources/main.c" FileDate="2017-12-22, 15:07:17" FileAge="1513951637222" FileType="128" />
+      <File Name="Documentation/Spi_Oled.txt" FileDate="2017-06-14, 10:45:34" FileAge="1497429934726" FileType="3072" />
+      <File Name="Generated_Code/IO_Map.c" FileDate="2017-06-14, 10:49:16" FileAge="1497430156779" FileType="45637" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.prm" FileDate="2017-06-14, 10:49:17" FileAge="1497430157075" FileType="8" CompNumb="4" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2017-06-14, 10:49:16" FileAge="1497430156851" FileType="45637" />
+      <File Name="Sources/Events.h" FileDate="2017-06-14, 10:49:17" FileAge="1497430157114" FileType="131328" />
+      <File Name="Documentation/Spi_Oled_Settings.xml" FileDate="2017-06-14, 10:49:17" FileAge="1497430157235" FileType="3072" />
+      <File Name="Sources/Events.c" FileDate="2017-06-14, 10:49:17" FileAge="1497430157130" FileType="131328" />
+      <File Name="Documentation/Spi_Oled_SIGNALS.txt" FileDate="2017-12-22, 15:07:17" FileAge="1513951637237" FileType="3072" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2017-06-14, 10:49:16" FileAge="1497430156876" FileType="45637" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2017-06-14, 10:49:16" FileAge="1497430156967" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2017-06-14, 10:49:16" FileAge="1497430156725" FileType="45637" CompNumb="4" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>5</CodeGenReference>
+</CodeGenerationInfo>
